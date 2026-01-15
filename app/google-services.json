@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "604922308153",
+    "project_id": "mobiletugasbesar-ec3a8688",
+    "storage_bucket": "mobiletugasbesar-ec3a8688.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604922308153:android:7bd78d0a752b2e8425cfe8",
+        "android_client_info": {
+          "package_name": "com.example.mobile_tugasbesar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604922308153-2805l4qiq199ea7ifgvlnp6js26kdajq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzPy493bnCQ9wjF9vNWUiDb4fj_rs--6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604922308153-2805l4qiq199ea7ifgvlnp6js26kdajq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
